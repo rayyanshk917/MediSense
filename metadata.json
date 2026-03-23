@@ -1,0 +1,5 @@
+{
+  "name": "MediSense AI - Clinical Decision Support System",
+  "description": "A production-ready AI-powered CDSS for medical professionals, providing differential diagnoses, risk assessments, and clinical insights using Gemini AI.",
+  "requestFramePermissions": []
+}
